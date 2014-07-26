@@ -2,7 +2,6 @@
 <classpath>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
-	<classpathentry kind="con" path="J2EE6"/>
-	<classpathentry kind="con" path="melibrary.com.genuitec.eclipse.j2eedt.core.MYECLIPSE_JAVAEE_6_CONTAINER"/>
-	<classpathentry kind="output" path="Web/WEB-INF/classes"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/logging"/>
+	<classpathentry kind="output" path="bin"/>
 </classpath>
