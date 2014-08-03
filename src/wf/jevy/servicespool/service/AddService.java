@@ -1,4 +1,4 @@
-package io.jevy.servicespool.service;
+package wf.jevy.servicespool.service;
 
 public class AddService {
 

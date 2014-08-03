@@ -1,4 +1,4 @@
-package io.jevy.servicespool.test;
+package wf.jevy.servicespool.test;
 
 
 public class CopyOfTest {

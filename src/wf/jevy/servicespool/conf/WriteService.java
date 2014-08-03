@@ -1,4 +1,4 @@
-package io.jevy.servicespool.conf;
+package wf.jevy.servicespool.conf;
 
 public class WriteService {
 

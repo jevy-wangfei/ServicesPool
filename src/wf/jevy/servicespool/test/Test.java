@@ -1,6 +1,6 @@
-package io.jevy.servicespool.test;
+package wf.jevy.servicespool.test;
 
-import io.jevy.servicespool.service.ServicePool;
+import wf.jevy.servicespool.service.ServicePool;
 
 public class Test {
 

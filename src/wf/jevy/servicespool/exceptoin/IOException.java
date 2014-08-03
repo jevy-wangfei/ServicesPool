@@ -1,4 +1,4 @@
-package io.jevy.servicespool.exceptoin;
+package wf.jevy.servicespool.exceptoin;
 
 public class IOException extends ServicePoolException {
 
